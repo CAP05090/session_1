@@ -1,3 +1,6 @@
+// write a code to check prime number
+
+
 let num = 25
 let fact = 0
 for(let i=1;i<num;i++){
